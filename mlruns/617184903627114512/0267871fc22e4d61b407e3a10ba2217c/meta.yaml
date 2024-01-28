@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/617184903627114512/0267871fc22e4d61b407e3a10ba2217c/artifacts
+end_time: 1706428746403
+entry_point_name: ''
+experiment_id: '617184903627114512'
+lifecycle_stage: active
+run_id: 0267871fc22e4d61b407e3a10ba2217c
+run_name: HP_opt
+run_uuid: 0267871fc22e4d61b407e3a10ba2217c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706428746392
+status: 3
+tags: []
+user_id: vokur

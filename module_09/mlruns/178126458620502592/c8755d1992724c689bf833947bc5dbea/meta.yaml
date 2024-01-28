@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/178126458620502592/c8755d1992724c689bf833947bc5dbea/artifacts
+end_time: 1706202105195
+entry_point_name: ''
+experiment_id: '178126458620502592'
+lifecycle_stage: active
+run_id: c8755d1992724c689bf833947bc5dbea
+run_name: omniscient-moose-75
+run_uuid: c8755d1992724c689bf833947bc5dbea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706202105183
+status: 4
+tags: []
+user_id: nataliakees

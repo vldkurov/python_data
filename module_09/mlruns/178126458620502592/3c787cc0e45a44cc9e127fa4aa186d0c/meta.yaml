@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/178126458620502592/3c787cc0e45a44cc9e127fa4aa186d0c/artifacts
+end_time: 1706202542249
+entry_point_name: ''
+experiment_id: '178126458620502592'
+lifecycle_stage: active
+run_id: 3c787cc0e45a44cc9e127fa4aa186d0c
+run_name: tasteful-eel-747
+run_uuid: 3c787cc0e45a44cc9e127fa4aa186d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706202366226
+status: 3
+tags: []
+user_id: nataliakees

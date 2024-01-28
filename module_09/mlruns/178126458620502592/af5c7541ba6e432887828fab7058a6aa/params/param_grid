@@ -1,0 +1,1 @@
+{'model__num_layers': [1, 2, 3], 'model__num_nodes': [32, 64, 128], 'model__lr': [0.001, 0.01, 0.1]}

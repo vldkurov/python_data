@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/178126458620502592/1861f7e9329246a1a4bee52bb959ed30/artifacts
+end_time: 1706201811425
+entry_point_name: ''
+experiment_id: '178126458620502592'
+lifecycle_stage: active
+run_id: 1861f7e9329246a1a4bee52bb959ed30
+run_name: HP_opt
+run_uuid: 1861f7e9329246a1a4bee52bb959ed30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706201811410
+status: 3
+tags: []
+user_id: nataliakees

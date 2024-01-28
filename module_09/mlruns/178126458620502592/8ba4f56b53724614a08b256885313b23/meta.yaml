@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/178126458620502592/8ba4f56b53724614a08b256885313b23/artifacts
+end_time: 1706202364573
+entry_point_name: ''
+experiment_id: '178126458620502592'
+lifecycle_stage: active
+run_id: 8ba4f56b53724614a08b256885313b23
+run_name: stylish-rat-550
+run_uuid: 8ba4f56b53724614a08b256885313b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706202272327
+status: 4
+tags: []
+user_id: nataliakees
